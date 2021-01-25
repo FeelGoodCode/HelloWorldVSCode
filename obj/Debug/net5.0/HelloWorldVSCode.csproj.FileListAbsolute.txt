@@ -1,0 +1,15 @@
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/bin/Debug/net5.0/HelloWorldVSCode.deps.json
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/bin/Debug/net5.0/HelloWorldVSCode.runtimeconfig.json
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/bin/Debug/net5.0/HelloWorldVSCode.runtimeconfig.dev.json
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/bin/Debug/net5.0/HelloWorldVSCode.dll
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/bin/Debug/net5.0/ref/HelloWorldVSCode.dll
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/bin/Debug/net5.0/HelloWorldVSCode.pdb
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.csprojAssemblyReference.cache
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.AssemblyInfoInputs.cache
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.AssemblyInfo.cs
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.csproj.CoreCompileInputs.cache
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.dll
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/ref/HelloWorldVSCode.dll
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.pdb
+/Users/slayton/FeelGoodCodeRepos/HelloWorldVSCode/obj/Debug/net5.0/HelloWorldVSCode.genruntimeconfig.cache
